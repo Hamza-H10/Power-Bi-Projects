@@ -8,5 +8,5 @@ Steps Covered:
     and ultimately
 4. Developing an Interactive BI Dashboard / Report.
 
-Here is the attached ScreenShot of its dashboard
+`Here is the attached ScreenShot of its dashboard`
 ![Screenshot (544)](https://user-images.githubusercontent.com/123259911/222945568-7af9bc41-5135-4df0-88d3-d305a593dd22.png)
